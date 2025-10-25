@@ -6,9 +6,11 @@
 
 登录页面  
 
-![image](https://github.com/user-attachments/assets/449dc01b-af21-453e-8723-f63d97f996aa)
-![image](https://github.com/user-attachments/assets/40a019ee-dd4b-4276-9055-2c29b9799a32)
-![image](https://github.com/user-attachments/assets/610e768c-91b4-4312-9dc0-8ec6d50ef377)
+![image](https://github.com/user-attachments/assets/449dc01b-af21-453e-8723-f63d97f996aa)  
+主页面  
+![image](https://github.com/user-attachments/assets/40a019ee-dd4b-4276-9055-2c29b9799a32)  
+人事调动  
+![image](https://github.com/user-attachments/assets/610e768c-91b4-4312-9dc0-8ec6d50ef377)  
 本项目主要用于学习了解数据库的一些知识以及对项目的基本认知
 
 环境VS2022，正常Windows操作系统；数据库用的是Mysql
